@@ -1,0 +1,12 @@
+name = 'Salue-moi'
+instruction = 'Un petit programme qui te salue avec ton nom complet.'
+[[checks]]
+name = "Il est possible d'être salué avec son nom complet"
+sequence = [
+    { type = "output", expected = "Quel est ton prénom ?" },
+    { type = "type", expected = "John" },
+    { type = "output", expected = "Salut John, qu'est est ton nom de famille ?" },
+    { type = "type", expected = "Doe" },
+    { type = "output", expected = "Passe une belle journée John Doe !" },
+    { type = "exit", expected = 0 },
+]
