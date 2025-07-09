@@ -1,4 +1,4 @@
 # This is the configuration used to connect to a live server
-domain = "delibay.org"
+domain = "live.plx.rs"
 port = 9120
 group_id = "https://github.com/samuelroland/plx-demo"
