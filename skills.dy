@@ -8,3 +8,5 @@ skill Structures
 dir structs
 skill Pointers and memory
 dir pointers
+skill Math
+dir math

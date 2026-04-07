@@ -1,0 +1,17 @@
+exo Conversion
+Le but est de fournir deux fonctions pour convertir les degrés Celsius et Fahrenheit, et inversément.
+
+Coder `celsius_to_fahrenheit` avec la formule 
+$$
+F = 9/5 C + 32
+$$
+
+Coder `fahrenheit_to_celsius` avec la formule
+$$
+C = 5/9 (F - 32)
+$$
+
+check Conversion réussie
+see 
+25 Celsius is 77 Fahrenheit
+100 Fahrenheit donne 37.7778 Celsius
