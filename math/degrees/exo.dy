@@ -1,4 +1,4 @@
-exo Conversion
+exo Degrés
 Le but est de fournir deux fonctions pour convertir les degrés Celsius et Fahrenheit, et inversément.
 
 Coder `celsius_to_fahrenheit` avec la formule 
@@ -13,5 +13,5 @@ $$
 
 check Conversion réussie
 see 
-25 Celsius is 77 Fahrenheit
+25 Celsius donne 77 Fahrenheit
 100 Fahrenheit donne 37.7778 Celsius
